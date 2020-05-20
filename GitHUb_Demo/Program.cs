@@ -7,6 +7,7 @@ namespace GitHUb_Demo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("My name is Lance Zotigh");
         }
     }
 }
